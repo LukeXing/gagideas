@@ -1,3 +1,7 @@
+#Luke Xing
+#3/30/2017
+#Chinese Restaurant Name Generator v1
+
 import random
 
 beginning = ['Welcome to']
