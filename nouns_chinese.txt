@@ -1,0 +1,13 @@
+Temple
+Palace
+Emperor
+Garden
+Buffet
+Bistro
+Empire
+Grill
+Restaurant
+House
+Inn
+Express
+Cafe
